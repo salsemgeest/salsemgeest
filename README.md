@@ -1,5 +1,7 @@
 # Hi there, I'm Stefan 👋
 
+🚧 This section is currently under construction. Check back soon for updates! 🚧
+
 ## About Me
 I am a Bioinformatics graduate with a passion for data analysis, genetics and biomedical research. I completed my studies at Hogeschool Leiden, specializing in Bioinformatics. During my internship at the Comparative Genetics and Refinement department at the Biomedical Primate Research Centre, I gained valuable experience in analyzing transcriptomic data.
 
