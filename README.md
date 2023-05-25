@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi there, I'm Stefan 👋
 
-<!--
-**salsemgeest/salsemgeest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a Bioinformatics graduate with a passion for data analysis, genetics and biomedical research. I completed my studies at Hogeschool Leiden, specializing in Bioinformatics. During my internship at the Comparative Genetics and Refinement department at the Biomedical Primate Research Centre, I gained valuable experience in analyzing transcriptomic data.
 
-Here are some ideas to get you started:
+## Education
+- BSc in Bioinformatics from Hogeschool Leiden
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Work Experience
+- Intern at Comparative Genetics and Refinement, Biomedical Primate Research Centre
+  - Utilized R for a scRNAseq analysis
+
+## Skills
+- Programming languages: R, Python, Bash
+- Data analysis and visualization
+- Transcriptomic data analysis
+- Bioinformatics tools and techniques
+- Git
+
+## Projects
+- Coming soon
+
+## Contact Me
+- LinkedIn: [Stefan](https://www.linkedin.com/in/salsemgeest/)
+
+Feel free to reach out if you have any questions, collaborations, or exciting opportunities!
+
